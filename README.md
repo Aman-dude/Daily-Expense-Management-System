@@ -14,15 +14,22 @@ Browse the Budget and Expense Tracker System in a browser. i.e. http://localhost
 💫 Features :
 
 1.Secure Login Form
+![login](https://github.com/Aman-dude/Daily-Expense-Management-System/assets/166608669/2e42a846-3c5d-45ce-9bbf-6deac4de32df)
+
 
 2.Signup Form
+![Screenshot 2024-03-24 121229](https://github.com/Aman-dude/Daily-Expense-Management-System/assets/166608669/33a0b737-eff8-4929-80f5-f0b072117bd2)
+
 
 3.user Dashboard
+![dashbord](https://github.com/Aman-dude/Daily-Expense-Management-System/assets/166608669/427b232b-79d7-4127-b473-407082aa3238)
 
 4.Add-Expenses
+![add exp](https://github.com/Aman-dude/Daily-Expense-Management-System/assets/166608669/445cf6f1-37bb-4c08-866d-6cf40c7a303b)
 
 5.Manage Expenses
+![manage-exp](https://github.com/Aman-dude/Daily-Expense-Management-System/assets/166608669/32bc2fa0-69b0-4de7-b4a3-6710eacf022f)
 
-6.Expense report
+6.Expense report print or save
+![print and pdf](https://github.com/Aman-dude/Daily-Expense-Management-System/assets/166608669/add7fe87-6fa0-4ff3-bfd0-ddb5133463f9)
 
-7.print
